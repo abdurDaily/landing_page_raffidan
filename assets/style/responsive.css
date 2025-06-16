@@ -37,6 +37,6 @@
 
 
     #review .right, #review .left {
-        display: none;
+        display: none !important;
     }
 }
